@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1576428123 source:e:\datastructure\arrayadt\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1576567367 source:e:\e-learning\datastructure\anagram\main.c
+	<stdio.h>
+	<stdlib.h>
+
