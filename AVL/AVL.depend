@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1578075260 source:c:\users\yuvraj singh\documents\avl\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1578119859 source:e:\datastructure\avl\main.c
+	<stdio.h>
+	<stdlib.h>
+

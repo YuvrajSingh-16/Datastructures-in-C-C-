@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1577203480 source:e:\datastructure\circulardoublyll\main.c
+	<stdio.h>
+	<stdlib.h>
+

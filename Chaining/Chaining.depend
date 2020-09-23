@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1579103283 source:e:\datastructure\chaining\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Chains.h"
+
+1579103437 e:\datastructure\chaining\chains.h
+	<stdlib.h>
+
