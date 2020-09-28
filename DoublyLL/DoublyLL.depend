@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1577202640 source:e:\datastructure\doublyll\main.c
+	<stdio.h>
+	<stdlib.h>
+
